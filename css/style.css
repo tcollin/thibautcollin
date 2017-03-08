@@ -1,0 +1,14 @@
+.title {
+    display: inline-block;
+    background-color: beige;
+    color: black;
+    text-align: center;
+    width: 100%;
+    font-family: 'Rock Salt', cursive;
+    border-bottom: 5px solid black;
+    padding-bottom: 2px;
+}
+
+h1 {
+    font-size: 24px;
+}
